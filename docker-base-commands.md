@@ -6,7 +6,11 @@
 ## docker container stop container-name
 # Get list of running containers
 ## docker container ls
+## docker ps
 # Get list of all containers
 ## docker container ls -a
+## docker ps -a
 # Get processes for Container
 ## docker container top container-name
+# Get images
+## docker image list
