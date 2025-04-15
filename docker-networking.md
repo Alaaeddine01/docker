@@ -1,7 +1,7 @@
 # Show networks list
 ## docker network ls
 # Inspect network , show more details about network
-## docker network inspect
+## docker network inspect network-name
 # Create a Network 
 ## docker network create --driver
 # Attach a network to container
