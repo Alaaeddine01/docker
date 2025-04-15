@@ -14,3 +14,13 @@
 ## docker container top container-name
 # Get images
 ## docker image ls
+# Open Shell inside container 
+## docker container run -it --name container-name image-name bash
+## docker container run -it --name container-name image-name sh
+# Open Shell for Ubuntu image 
+## docker container run -it --name container-name ubuntu
+# Start Exisiting Container with attached host terminal 
+## docker container start -ai
+## a: attache, i: interactive
+# Run additional processes in Running Container and execute another commands
+## docker container exec -it cmd
