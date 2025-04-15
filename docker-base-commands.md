@@ -24,3 +24,5 @@
 ## a: attache, i: interactive
 # Run additional processes in Running Container and execute another commands
 ## docker container exec -it cmd
+# Informations about container
+## docker container inspect my-container
