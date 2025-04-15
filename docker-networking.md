@@ -5,6 +5,6 @@
 # Create a Network 
 ## docker network create --driver
 # Attach a network to container
-## docker network connect
+## docker network connect my-network my-container
 # Detach a network from a container
 ## docker network disconnect
