@@ -13,4 +13,4 @@
 # Get processes for Container
 ## docker container top container-name
 # Get images
-## docker image list
+## docker image ls
