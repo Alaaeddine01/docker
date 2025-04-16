@@ -14,3 +14,6 @@
 # ping two containers
 ## docker container exec -it container-A ping container-B
 ## using exec for execute ping commande
+# Important commande
+## docker container create --help
+## --link used for add link to another container
