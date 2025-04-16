@@ -26,3 +26,5 @@
 ## docker container exec -it cmd
 # Informations about container
 ## docker container inspect my-container
+# Run a Container and delete it and it's associated volumes if exist  when it's execution terminated
+## docker container run --rm
