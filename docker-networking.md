@@ -7,4 +7,4 @@
 # Attach a network to container
 ## docker network connect my-network my-container
 # Detach a network from a container
-## docker network disconnect
+## docker network disconnect my-network my-container
