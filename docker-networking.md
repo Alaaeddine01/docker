@@ -19,3 +19,5 @@
 ## --link used for add link to another container
 # NB:
 ## We can have multiple Containers in one created Network repsonsed to the some DNS adress
+# Give an alias for a container in a spesific Network
+## --net-alias alias-name
