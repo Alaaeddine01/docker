@@ -17,3 +17,5 @@
 # Important commande
 ## docker container create --help
 ## --link used for add link to another container
+# NB:
+## We can have multiple Containers in one created Network repsonsed to the some DNS adress
