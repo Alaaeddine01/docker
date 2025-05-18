@@ -6,3 +6,5 @@
 ## Volumes needs manual deletion
 # delete volumes doesn't used (volumes that not attached with any container)
 # Assign vol to cont: docker container run  -v volume_name:/var/lib/mysql
+# Create Volume , Required if we need to assigned to a container 
+## docker volume create volume-name
